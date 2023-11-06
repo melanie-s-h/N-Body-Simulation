@@ -22,7 +22,7 @@ with **p̲ᵢ = mᵢ×(dx̲ᵢ/dt)** follows a set of first order differential e
 which will be numerically integrated with the Runge-Kutta 4 Method to approximate the bodies trajectories.
 <br>
 
-*Author: Melanie Heinrich, based on the code '/Ingolstadt.jl/tree/main/src/Development/NBodies/NBodies.jl' 
+*Author: Melanie H., based on the code '/Ingolstadt.jl/tree/main/src/Development/NBodies/NBodies.jl' 
 published on github by Niall Palfreyman, downloaded: 26/5/2022.* 
 
 
