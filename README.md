@@ -38,3 +38,18 @@ The "demo()" function of "Demo.jl" file demonstrates the simulation of 3 differe
 "Demo.jl" uses the main module "NBodies.jl", where the math and physics is happening.
 <br>
 <hr>
+![image](https://github.com/melanie-s-h/N-body-simulation/assets/134691659/769aeeed-ddbf-440e-9a78-a555269a0655)
+
+<hr>
+
+
+https://github.com/melanie-s-h/N-body-simulation/assets/134691659/8539820c-c420-4f96-99d2-2bb675dbd990
+<hr>
+
+![image](https://github.com/melanie-s-h/N-body-simulation/assets/134691659/f5628e38-9b3c-4195-8be8-e6a73e0f8c82)
+
+<hr>
+![image](https://github.com/melanie-s-h/N-body-simulation/assets/134691659/a574b9dd-9acd-4df9-811e-62dd74b0e44e)
+
+<hr>
+
