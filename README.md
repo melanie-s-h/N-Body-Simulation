@@ -29,8 +29,12 @@ which will be numerically integrated with the Runge-Kutta 4 Method to approximat
 published on github by Niall Palfreyman, downloaded: 26/5/2022.* 
 <br>
 <br>
+<hr>
+
 <br>
 
-Type Demo.demo() in Julia REPL to run the simulation.
-The "demo()" function of "Demo.jl" file to demonstrates the simulation of 3 different n-body systems. 
-"Demo.jl" uses the main module "NBodies.jl" where the math is happening.
+Type Demo.demo() in Julia REPL to run the simulation.<br>
+The "demo()" function of "Demo.jl" file demonstrates the simulation of 3 different n-body systems while giving explanation in the REPL.
+"Demo.jl" uses the main module "NBodies.jl", where the math and physics is happening.
+<br>
+<hr>
