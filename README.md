@@ -8,7 +8,7 @@
 **N-body equations of motion are defined by**
 </ins>
 <br>
-###     &#9;&#9;      *F̲ᵢⱼ = mᵢ×(d²x̲ᵢ/dt²) = ∑ Gmᵢmⱼ×(x̲ⱼ-x̲ᵢ)×(1/|(x̲ⱼ-x̲ᵢ)|³)*,			
+###           *F̲ᵢⱼ = mᵢ×(d²x̲ᵢ/dt²) = ∑ Gmᵢmⱼ×(x̲ⱼ-x̲ᵢ)×(1/|(x̲ⱼ-x̲ᵢ)|³)*,			
 <br>*where the right side is summed up over N with j=1 & j≠i*.	
 
 <br>These equations describe the motions of N mass points mᵢ, 
@@ -16,10 +16,10 @@ moving under the influence of their mutual attracting force given by Newton's la
 with **p̲ᵢ = mᵢ×(dx̲ᵢ/dt)** follows a set of first order differential equations:				
 <br>
 
-###     &#9;&#9;      *ṗ̲ᵢ = dp̲ᵢ/dt = ∑ Gmᵢmⱼ×(x̲ⱼ-x̲ᵢ)×(1/|(x̲ⱼ-x̲ᵢ)|³)*
+###           *ṗ̲ᵢ = dp̲ᵢ/dt = ∑ Gmᵢmⱼ×(x̲ⱼ-x̲ᵢ)×(1/|(x̲ⱼ-x̲ᵢ)|³)*
 <br>
 
-###      &#9;&#9;     *ẋ̲ᵢ = dx̲ᵢ/dt = p̲/m*
+###          *ẋ̲ᵢ = dx̲ᵢ/dt = p̲/m*
 <br>
 which will be numerically integrated with the Runge-Kutta 4 Method to approximate the bodies trajectories.
 <br>
@@ -27,3 +27,10 @@ which will be numerically integrated with the Runge-Kutta 4 Method to approximat
 
 *Author: Melanie Heinrich, based on the code '/Ingolstadt.jl/tree/main/src/Development/NBodies/NBodies.jl' 
 published on github by Niall Palfreyman, downloaded: 26/5/2022.* 
+<br>
+<br>
+<br>
+
+Type Demo.demo() in Julia REPL to run the simulation.
+The "demo()" function of "Demo.jl" file to demonstrates the simulation of 3 different n-body systems. 
+"Demo.jl" uses the main module "NBodies.jl" where the math is happening.
