@@ -2,6 +2,7 @@
 ***In this module a system of N interacting bodies moving in 3 dimensions over time will be simulated. The trajectories of the bodies are approximated by numerically integrating the equations of motion with the Runge-Kutta Method.***
 
 <ins>**N-body equations of motion are defined by**</ins>
+
    **F̲ᵢⱼ = mᵢ×(d²x̲ᵢ/dt²) = ∑ Gmᵢmⱼ×(x̲ⱼ-x̲ᵢ)×(1/|(x̲ⱼ-x̲ᵢ)|³)**, 
    *where the right side is summed up over N with j=1 & j≠i*. 
 These equations describe the motions of N mass points mᵢ, 
